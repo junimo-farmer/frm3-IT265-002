@@ -3,17 +3,17 @@
 ## Studio Name Ideas
 - **Primary Ideas:**
   - [DBDW Studio (Do Bad Die Worse)]
-  - [Insert name idea 2]
-  - [Insert name idea 3]
+  - [Virtual City Studios]
+  - [KISS Studio]
 - **Alternative Ideas:**
-  - [Insert alternative name idea 1]
-  - [Insert alternative name idea 2]
-  - [Insert alternative name idea 3]
+  - [Foxhole Studio]
+  - [Nailbiter]
+  - [Sunset Woods Studio]
 
-- **Chosen Name**:
-- **About the name**:
-- **Social Medias with name available**:
-- **Possible domain names available**:
+- **Chosen Name**: DBDW Studios
+- **About the name**: The phrase "do bad, die worse" can be interpreted in two ways. To do bad and die worse could mean to go all out and commit to a choice, which is an important attitude to have for a game studio. Everything produced must be to 100%. Another way to interpret this is to promise that if our games are bad, we will suffer a worse fate. 
+- **Social Medias with name available**: Facebook, Youtube, Twitter, Tik Tok, Pinterest, Reddit, Snapchat, Spotify
+- **Possible domain names available**: .com, .org, .net, for dbdwstudios
 
 ---
 
