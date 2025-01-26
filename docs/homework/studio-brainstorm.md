@@ -20,8 +20,8 @@
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> [Write a concise and inspiring vision statement here.]
-
+> [To create and achieve more than before; if we do bad we die worse.]
+> We want to design our products with the best we have currently and to evolve as we grow. What we design should be down with that same sentiment of the phrase "do bad, die worse". Everything is taken up to a notch with failure not being an option. This style of design should create fun games with gameplay mechanics taken to an extreme.
 ---
 
 ## Core Values
