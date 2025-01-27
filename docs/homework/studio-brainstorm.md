@@ -27,19 +27,19 @@
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- [Value 1: e.g., Thoughtful Design]
-- [Value 2: e.g., Player-Centered Innovation]
-- [Value 3: e.g., Simplicity in Architecture]
-- [Value 4: e.g., Experimentation with Mechanics]
+- [Value 1: Complexity through simplicity]
+- [Value 2: Satisfactory/Addicting Game Loops]
+- [Value 3: Engagement with audience/community]
+- [Value 4: Revolutionizing Gameplay Mechanics]
 
 ---
 
 ## Target Audience
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
-- **Demographic:** [e.g., Casual Players, Board Game Enthusiasts, Indie Game Fans]
-- **Interests:** [e.g., Strategic Gameplay, Narrative-Driven Experiences, Multiplayer Fun]
-- **Platforms:** [e.g., PC, Web, Mobile]
+- **Demographic:** [Players Experienced with Board Games]
+- **Interests:** [Those Interested in Strategy, Rogue-like Games with RPG elements]
+- **Platforms:** [PC]
 
 ---
 
@@ -47,43 +47,45 @@
 *What types of games will your studio focus on?*  
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
-- [e.g., Strategy Games, Puzzle Games, Cooperative Board Games]
-- [e.g., Themes: Fantasy, Sci-Fi, Minimalist, etc.]
+- [Strategy Board Games, RPG-like Elements, Competition]
+- [Themes: Fantasy, Surrealist]
 
 ---
 
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> [Describe your USP, such as unique mechanics, storytelling integration, or player interaction.]
+> [Our games will try and create a realm of different possible game states, really trying to make it so that any game played is unique. This will include randomness on mutliple levels, but allow players to control these aspects using either mechanics for games, or certain choices with the board game.]
 
 ---
 
 ## Tools and Technology
 *What tools and platforms will you use to develop, test, and publish your games?*
 
-- **Game Engine(s):** [e.g., Unity, Godot, Phaser for digital prototyping.]
-- **Art Tools:** [e.g., Inkscape, Aseprite for board/card assets.]
-- **Audio Tools:** [e.g., Audacity, Bfxr for sound effects.]
-- **Version Control:** [e.g., GitHub for tracking development.]
-- **Publishing Platforms:** [e.g., Itch.io, GitHub Pages for hosting digital prototypes.]
+- **Game Engine(s):** [Unity for digital prototyping.]
+- **Art Tools:** [Inkscape, Aseprite for board/card assets.]
+- **Audio Tools:** [Audacity for SFX editing]
+- **Version Control:** [GitHub for tracking development.]
+- **Publishing Platforms:** [Itch.io, GitHub Pages for hosting digital prototypes.]
 
 ---
 
 ## Branding and Aesthetics
 *What will your studio's visual identity look like?*
 
-- **Logo Style:** [e.g., Minimalist, Geometric, Playful.]
+- **Logo Style:** [Grafitti Style logo, simple but bold]
 - **Tagline Ideas:** 
-  - [Tagline 1: e.g., "Simple Games, Complex Stories."]
-  - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
-  - [Tagline 3: e.g., "Architects of Fun."]
+  - [Tagline 1: "Play with your all"]
+  - [Tagline 2: "Do bad, die worse"]
+  - [Tagline 3: "Let your imagination run"]
 
 -- **Sketches/Logo**:
+![1](https://github.com/user-attachments/assets/f89489cb-2b59-439b-8b63-db98882f2250)
+![2](https://github.com/user-attachments/assets/4ac30807-ac28-4645-b319-977b3e225ab5)
 
 ---
 
 ## Additional Notes
 *Include any other ideas, inspirations, or thoughts related to your studio or project.*
 
-> [Free space for brainstorming!]
+> [Whatever I create with this studio must be bold, as the name implies]
