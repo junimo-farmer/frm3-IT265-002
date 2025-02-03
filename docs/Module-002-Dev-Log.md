@@ -7,9 +7,10 @@
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in as appropriate -->
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Complete the Case Study Document
+- [ ] Figure out the objectives for brain-style game (i.e. territory collection, race to the end, collect enough resources)
+- [ ] Figure out what the design of the board will look like (i.e. Path, Corners, Cards).
+- [ ] Learn more about games :)
 
 #### Progress
 - **What I accomplished**:
