@@ -24,7 +24,9 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  
+-  Game Balance
+  -  Imbalanced only if a novice of Choice A can beat an expert of Choice B.
+  -  
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
