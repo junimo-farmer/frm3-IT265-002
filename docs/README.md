@@ -1,1 +1,6 @@
-Dev logs
+# IT265-002 Repository
+## Dev Logs
+* [Module 001 Log](https://junimo-farmer.github.io/frm3-IT265-002/Module-001-Dev-Log)
+* [Module 002 Log](https://junimo-farmer.github.io/frm3-IT265-002/Module-002-Dev-Log)
+## OTHER ASSIGNMENTS
+* [Homework Folder](https://junimo-farmer.github.io/frm3-IT265-002/homework)
