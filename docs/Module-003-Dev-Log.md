@@ -34,6 +34,10 @@
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
 -  <!--Your entry here or N/A if not applicable for this entry-->
+-  What if we include a time system? Limits the number of turns each player has to move (Mario Party style)
+  - Immersive because we can include it to mean from night to day
+  - Can add new mechanics based on the time
+  - Meaningful choices during the night can make twilight more impactful 
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
