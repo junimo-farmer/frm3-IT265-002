@@ -7,31 +7,34 @@
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in as appropriate -->
-- [ ] Complete the Case Study Document
+- [x] Complete the Case Study Document
 - [ ] Figure out the objectives for brain-style game (i.e. territory collection, race to the end, collect enough resources)
 - [ ] Figure out what the design of the board will look like (i.e. Path, Corners, Cards).
-- [ ] Learn more about games :)
+- [x] Learn more about games :)
 
 #### Progress
 - **What I accomplished**:
-  - 
+  - Created a design document to better conceptualize the aesthetics and possible mechanics of the game.
+  - Reviewed and researched other games to see which would fit best 
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
-  -  
+  - Difficulty in choosing mechanics/features to use.
+  - Need to be more original/creative
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
-  -  
+  - N/A
+  - Considering brainstorming session with friends.
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
 -  Game Balance
   -  Imbalanced only if a novice of Choice A can beat an expert of Choice B.
-  -  
+-  Using Word Vomit
+  - Putting down words related to concepts to better understand how to map out the game.
 
 #### Free Thinking
-- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  
+- Dream Walker will be a race game around the map with   
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  
+- PLEASE FIGURE OUT MECHANICS WE NEED TO MOVE
+- Start testing/figuring out strategies
+- Design basic map
