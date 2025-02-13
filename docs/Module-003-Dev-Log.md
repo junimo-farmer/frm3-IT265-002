@@ -30,6 +30,12 @@
 #### Learnings
 - Key insights, techniques, or concepts explored.
 -  <!--Your entry here or N/A if not applicable for this entry-->
+  - About color:
+    - Can be used to denote important mechanics, location, resources
+    - Color palettes
+      - Used to emit emotions
+      - Make a game more recognizable
+      - Look at how color palettes emit certain feelings
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
