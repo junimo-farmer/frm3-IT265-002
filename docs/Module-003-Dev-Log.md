@@ -11,21 +11,24 @@
 - [ ] Goal 2
 - [ ] Goal 3
 -->
-- [ ] Learn more about immersion and good techniques for it
-- [ ] Learn what makes a game bad
+- [x] Learn more about immersion and good techniques for it
+- [x] Learn what makes a game bad
 - [ ] Create sample map
-- [ ] Think of a few solid mechanics to add to game
+- [x] Think of a few solid mechanics to add to game
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
   - <!--Your entry here or N/A if not applicable for this entry-->
+  - Playing around with mechanisms
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
   -  <!--Your entry here or N/A if not applicable for this entry-->
+  -  Unable to find something fun or interesting
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
   -  <!--Your entry here or N/A if not applicable for this entry-->
+  -  Need to think more or look at other successful games
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
@@ -42,9 +45,17 @@
 -  <!--Your entry here or N/A if not applicable for this entry-->
 -  What if we include a time system? Limits the number of turns each player has to move (Mario Party style)
   - Immersive because we can include it to mean from night to day
-  - Can add new mechanics based on the time
-  - Meaningful choices during the night can make twilight more impactful 
+  - Can add new mechanics based on the time (max turn system)
+  - Meaningful choices during the night can make twilight more impactful
+
+- What mechanisms should players be allowed to compete with?
+  - Manipulate spaces travel
+  - Stealing
+  - Traps
+  - Resource management?
+  - Collecting key items to complete the game.
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
 -  <!--Your entry here or N/A if not applicable for this entry-->
+-  Consider strategies and mechanics more.
