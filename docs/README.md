@@ -4,5 +4,6 @@
 * [Module 002 Log](https://junimo-farmer.github.io/frm3-IT265-002/Module-002-Dev-Log)
 * [Module 003 Log](https://junimo-farmer.github.io/frm3-IT265-002/Module-003-Dev-Log)
 * [Module 004 Log](https://junimo-farmer.github.io/frm3-IT265-002/Module-004-Dev-Log)
+* [Module 005 Log](https://junimo-farmer.github.io/frm3-IT265-002/Module-005-Dev-Log)
 ## OTHER ASSIGNMENTS
 * [Homework Folder](https://junimo-farmer.github.io/frm3-IT265-002/homework)
