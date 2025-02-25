@@ -37,10 +37,19 @@
   - Can be used to subvert messages
   - Can have indirect consequences to your game if you are not careful
 
+- Board Design
+  - Consider using more paper designs
+  - Has to revolve around an objective
+  - Should be clear and understandable
+
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  N/A, currently need to consider what would be a fun board game. Want to ask a friend.
+-  currently need to consider what would be a fun board game. Want to ask a friend to help flesh out the idea behind the game.
+-  It is not necessarily bad to have it be a reach-the-finish game, but I must consider other types of features
+  - Chasers: NPCs which will chase players and cause some negative effect upon contact
+  - Side Areas: Grants some bonus effect (good or bad)
+  - Collectibles: Need to collect to pass to end.
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
