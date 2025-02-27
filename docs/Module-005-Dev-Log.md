@@ -30,14 +30,33 @@
 
 #### Learnings
 - *Key insights, techniques, or concepts explored.*
--  
-
-- 
+-   
 
 
 #### Free Thinking
 - *Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.*
--  
+-  If I cannot avoid making Mario Party, just make Mario Party and tweak it from there.
+-  Goal for the game:
+  - Collect enough core memories before daytime
+  - Avoid nightmares and chasers
+- Mechanics to consider
+  - Sanity Mechanic
+    - Being caught by a chaser is not the end, it simply greatly injures your sanity
+    - After losing a majority of your sanity, you become deranged
+    - Receive negative and some positive effects which make the game more chaotic
+    - Losing too much sanity will mean a bust (trapped)
+  - Time Mechanic
+    - The game will play for 8 turns (8 hours).
+    - Nighttime (1-4 hours)
+      - Brain is still deep in sleep, game progresses normally
+      - Meant to allow a slower pace start
+    - Daytime (5-8 hours)
+      - Brain is in deep sleep and REM begins
+      - Chasers become more chaotic
+  - Dream Powerups (hold two at most)
+    - can create traps, improve chances, help with chasers, or increase speed
+      - Tissue effect, Dice Effect, Invisibility Effect, Bike Effect
+  - 
 
 #### Next Steps
 - *Tasks or experiments to focus on during the next session.*
