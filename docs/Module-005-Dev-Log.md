@@ -12,10 +12,10 @@
 - [ ] Goal 3
 -->
 - [ ] Create a sample map for the game
-- [ ] Rethink objectives for the game (something other than reach the end)
-- [ ] Rethink mechanics to prevent Mario Party Clone.
-- [ ] Learn more about randomness and its effects on games
-- [ ] Consider how impactful randomness is in the game.
+- [x] Rethink objectives for the game (something other than reach the end)
+- [x] Rethink mechanics to prevent Mario Party Clone.
+- [x] Learn more about randomness and its effects on games
+- [x] Consider how impactful randomness is in the game.
 
 #### Progress
 - **What I accomplished**:
@@ -30,12 +30,12 @@
 
 #### Learnings
 - *Key insights, techniques, or concepts explored.*
--   
+  -  Randomness is difficult but important for keeping things fresh, especially since the board game cannot change itself. 
 
 
 #### Free Thinking
 - *Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.*
--  If I cannot avoid making Mario Party, just make Mario Party and tweak it from there.
+-  **If I cannot avoid making Mario Party, just make Mario Party and tweak it from there.**
 -  Goal for the game:
   - Collect enough core memories before daytime
   - Avoid nightmares and chasers
@@ -56,7 +56,11 @@
   - Dream Powerups (hold two at most)
     - can create traps, improve chances, help with chasers, or increase speed
       - Tissue effect, Dice Effect, Invisibility Effect, Bike Effect
-  - 
+  - Can do character advantages but this is unnecessary
+- About the map
+  - Center door leading out of the brain. Need to leave before daytime.
+  - Four sectors around the map, sleep in the beds to gain a piece of the puzzle and leave (restores a bit of sanity)
+  - Pickups at a shop
 
 #### Next Steps
 - *Tasks or experiments to focus on during the next session.*
