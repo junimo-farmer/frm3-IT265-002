@@ -20,13 +20,15 @@
 #### Progress
 - **What I accomplished**:
   - *Summarize completed tasks or progress made.*
-  -  
+  -  Fleshed out more of the mechanics
 - **Challenges faced**:
   - *Describe blockers, bugs, or issues encountered.*
-  -  
+  -  Have not found blockers because I have not played a round of the game
+  -  If I had to guess, there is something missing for more interaction between players
+  -  Race to the end does not work if the map is not generated itself
 - **Solutions**:
   - *Detail how you addressed challenges or your thought process.*
-  - 
+  - Changed from race to collect artifacts
 
 #### Learnings
 - *Key insights, techniques, or concepts explored.*
@@ -64,4 +66,5 @@
 
 #### Next Steps
 - *Tasks or experiments to focus on during the next session.*
-- 
+- GO TO DOLLAR STORE TO GET MORE INSPIRED BY SET PIECES
+- Play a makeshift round of the game
