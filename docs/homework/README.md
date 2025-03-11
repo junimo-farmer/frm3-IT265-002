@@ -5,3 +5,4 @@
 ## Project Related
 * [Studio Brainstorm](https://junimo-farmer.github.io/frm3-IT265-002/homework/studio-brainstorm)
 * [Game Treatment Document](https://junimo-farmer.github.io/frm3-IT265-002/homework/treatment)
+* [Game Treatment Checkpoint Document](https://github.com/junimo-farmer/frm3-IT265-002/blob/main/docs/homework/frm3_IT265-002-S2025_it265-design-treatment-checkpoint_03-11-2025_00-06-22.pdf)
