@@ -17,13 +17,21 @@ Representing the story of dreams and the mind. Want to capture the surrealist fe
 
 ## Genre and Style
 - **Genre**: What category does your game fall into (e.g., action, adventure, strategy)?
+  - Adventure, Co-op, Party Game.
 - **Style**: Describe the tone, visual approach, and gameplay feel.
-
+  - Surrealist pop artstyle with unusual uses for ordinary items. Darker undertones to make it feel unnatural, but still fun. Gameplay should feel
 ---
 
 ## Target Audience
 - **Demographics**: Age group, interests, and gamer profile.
+  - Target Audience: Those who stay inside and want a fun way to spend an hour. Those who enjoy surrealist or niche board games.
+  - Demographics: Young Adults - Teenagers
+    - The game theme is that of dreams and surrealist settings. Certain aspects of the setting are given meaning, but others are left to the imagination of the players. Young Adults and Teens who like to stay indoors may find that this game provides a way to create their own experience while adding some tension to their boring lives.  
 - **Accessibility**: How will it appeal to casual and experienced players?
+  - for blind players:
+    - Play with friends.
+    - pieces have unique shapes and are easy to identify. Board spaces can be given texture or be raised to allow maneuvering.
+  - Colors will be unique for color blindness (trying to avoid using red and green). 
 
 ---
 
@@ -72,13 +80,13 @@ Representing the story of dreams and the mind. Want to capture the surrealist fe
     - Chaser moves {D6} at the end of the hour
     - Shadow Lady, spawns in Victorian Mansions. Targets the player with least sanity in the area. When a player is caught, they lose 3 sanity. Shadow lady then spawns in her designated spawn.
 - **Goals and Challenges**: *What do players aim to achieve? What obstacles will they face?*
-  -   GOALS:
-   - Escape the Dream World
+  - GOALS:
+    - Escape the Dream World
 
   - CHALLENGES:
-   - Do not go insane
-   - Collect the artifacts before the sun rises
-   - The game gets more intense as it approaches morning.
+    - Do not go insane
+    - Collect the artifacts before the sun rises
+    - The game gets more intense as it approaches morning.
 - **Progression**: How will the gameplay evolve or scale over time?
 
 ---
@@ -117,36 +125,38 @@ Not many games are targeting the dreamspace and I think R.E.M. is a good way to 
 
 ## Inspiration
 - **Sources**: Reference books, movies, historical events, or games.
+  - *Yume Nikki*: a 2004 adventure game created by the pseudonymous Japanese developer Kikiyama. The player controls a girl named Madotsuki and explores her dreams, collecting 24 effects that change her appearance and equipment.
 - **Why it Matters**: How does this inspiration inform the game’s design?
+  - *Yume Nikki*: The evnironment and feeling of playing this niche game is something that I wanted to capture for the gameboard. I think certain parts of this game, such as the tilemaps and sound design are unique, and it manages to create an ecosystem that is beloved by certain fans. This game creates the foundation for the idea behind the setting, surrealist nature, and chasers.
 
 ---
 
 ## Player Experience Goals
-- What emotions or reactions should players have while playing?
-- Examples: excitement, curiosity, tension.
+- *What emotions or reactions should players have while playing?*
+  - tension, amusement, excitement.
 
 ---
 
 ## Technical Requirements
-- **Platform**: Where will this game be played (e.g., PC, console, mobile)?
-- **Tools**: Key engines or technologies needed.
+- **Platform**: *Where will this game be played (e.g., PC, console, mobile)?*
+  - PC
+- **Tools**: *Key engines or technologies needed.*
+  - OpenGameArt.org
+  - Unity
 
 ---
 
 ## Art and Sound Direction
-- **Visual Style**: Cartoonish, realistic, minimalistic, etc.
-- **Sound Design**: Music and sound effects to enhance immersion.
-
+- **Visual Style**: *Cartoonish, realistic, minimalistic, etc.*
+  - Cartoonish, wacky, 
+- **Sound Design**: *Music and sound effects to enhance immersion.*
+  - Music and effects change depending on the game map state, time of day, and sanity
 ---
 
 ## Monetization Strategy
-- How will this game generate revenue (e.g., paid, freemium, ads)?
+- *How will this game generate revenue (e.g., paid, freemium, ads)?*
+- Expansion packs.
 
-- Accessibility
-  - for blind players:
-    - Play with friends.
-    - pieces have unique shapes and are easy to identify. Board spaces can be given texture or be raised to allow maneuvering.
-  - Colors will be unique for color blindness (trying to avoid using red and green). 
 ---
 
 ## Treatment Details
