@@ -38,9 +38,9 @@ Representing the story of dreams and the mind. Want to capture the surrealist fe
 ## Core Gameplay Mechanics
 - **Primary Mechanics**: *List the main actions players will perform*.
   - Sanity Mechanic
-    - Characters keep a total of 5 sanity points to begin with
+    - Characters keep a total of 6 sanity points to begin with
     - Being caught by a chaser is not the end, it simply greatly injures your sanity
-    - After losing a majority of your sanity points, (on 3 sanity points) you become **deranged**
+    - After losing a majority of your sanity points, (on 2 sanity points) you become **deranged**
   - Deranged
     - Receive negative and some positive effects which make the game more chaotic
       - i.e *imparnumerophobia* - all odd rolls are reduced to 0.
@@ -48,11 +48,11 @@ Representing the story of dreams and the mind. Want to capture the surrealist fe
     - Can be helpful in some ways, but negative to other players and yourself
     - Losing too much sanity will mean a bust (trapped)
   - Time Mechanic
-    - The game will play for 8 turns (8 hours).
-    - Nighttime (1-4 hours)
+    - The game will play for 24 turns (24 hours).
+    - Nighttime (1-12 hours)
       - Brain is still deep in sleep, game progresses normally
       - Meant to allow a slower pace start
-    - Daytime (5-8 hours)
+    - Daytime (13-24 hours)
       - Brain is in deep sleep and REM begins
       - Chasers become more chaotic
   - Dream Powerups (hold two at most)
