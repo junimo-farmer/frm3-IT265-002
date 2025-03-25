@@ -17,7 +17,7 @@ Representing the story of dreams and the mind. Want to capture the surrealist fe
 
 ## Genre and Style
 - **Genre**: What category does your game fall into (e.g., action, adventure, strategy)?
-  - Adventure, Co-op, Party Game.
+  - Adventure, Competitive, Party Game.
 - **Style**: Describe the tone, visual approach, and gameplay feel.
   - Surrealist pop artstyle with unusual uses for ordinary items. Darker undertones to make it feel unnatural, but still fun. Gameplay should feel
 ---
