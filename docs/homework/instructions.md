@@ -91,6 +91,7 @@ Players can hold up to 6 Traits (3 positive and 3 negative). They can also hold 
        - Springboard: Move +3 spaces
        - Mother's Embrace: Receive +1 sanity
        - Steal Base: Move D6 spaces
+
    - Negative (Red)
      - Examples
        - Boxing Glove Jack-in-the-Box: Move back 3 spaces
