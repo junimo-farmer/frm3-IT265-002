@@ -1,5 +1,13 @@
 # Game Treatment Document
 
+## Change Log
+
+### Testing
+
+### Physical Prototype
+
+### Digital Prototype
+
 ## Title
 ### R.E.M. Invasion
 - *Dream Walker*: 
