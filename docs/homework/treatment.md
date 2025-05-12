@@ -3,9 +3,13 @@
 ## Change Log
 
 ### Testing
+- Have movement by two rolls D6.
+- Changed to have multiple objectives in a game that are possible to complete.
+- Changed number of turns needed for night time or day time.
 
 ### Physical Prototype
-
+- Expanded shop tiles to branch across multiple tiles.
+- Gain trait and item at beginning to kick things off faster.
 ### Digital Prototype
 
 ## Title
