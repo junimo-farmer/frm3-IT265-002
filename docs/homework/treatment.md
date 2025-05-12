@@ -1,16 +1,25 @@
 # Game Treatment Document
 
+## [Video Demo](https://drive.google.com/drive/u/2/folders/1PN5Y28ZKaSyaMJJh4vHmNxcLTONSCdTM)
+
 ## Change Log
 
 ### Testing
 - Have movement by two rolls D6.
+  - Map was too large for fast testing of the game. Items that would improve game speed are hard to come by.
 - Changed to have multiple objectives in a game that are possible to complete.
+  - This is meant to provide some uniqueness in games, allowing players to change their playstyle based on the objective easiest to achieve for them.
 - Changed number of turns needed for night time or day time.
+  - Originally 8 turns, the map was once again too large for that. Increased to a 24 turn cycle with 12 hours day 12 hours night. No time limit.
 
 ### Physical Prototype
 - Expanded shop tiles to branch across multiple tiles.
+  - Too difficult to reach shops when it is one of the few sources of items
 - Gain trait and item at beginning to kick things off faster.
+  - Too slow at times.
 ### Digital Prototype
+  - Removal of multiple entrances
+    - With the way the current game is, it was easier to have a single entrance track.
 
 ## Title
 ### R.E.M. Invasion
@@ -168,13 +177,29 @@ Not many games are targeting the dreamspace and I think R.E.M. is a good way to 
 ## Monetization Strategy
 - *How will this game generate revenue (e.g., paid, freemium, ads)?*
 - Expansion packs.
-
+- **Addition of new traits, or different maps. No subscriptions (yuck).**
+- **Singular one time purchase**
 ---
 
 ## Treatment Details
 ### Gameplay Example:
 *Write a step-by-step walkthrough of a core gameplay scenario.*
-
+- Win by First Blood
+  - 2 players join
+  - Players are told that the objective is first blood.
+  - Player 1 rolls and lands on an item tile, gaining **Chainsaw**, allowing them to damage nearby players
+  - Player 2 high rolls and lands close to Player 1
+  - Player 1 uses Chainsaw and injures Player 2
+  - They continue on the following loop
+    - Roll and land on tiles
+    - Gain traits and debuffs
+  - Player 1 gains a trap and places it behind
+  - Player 2, low from red tile debuffs, steps on the tile with a trap on it
+  - Player 1 destroys Player 2's sanity
+  - Player 2 is returned to the start with the insanity debuff
+  - Player 1 can now return to **The Door** to win the game.
+  - Player 2 tries to stop Player 1 with items but fails.
+  - Player 1 wins.
 ---
 
 ### Challenges and Considerations
