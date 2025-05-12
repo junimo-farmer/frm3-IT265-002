@@ -204,17 +204,24 @@ Not many games are targeting the dreamspace and I think R.E.M. is a good way to 
 
 ### Challenges and Considerations
 - **Potential Risks**: What aspects might fail or need refinement?
+  - The scope of the game means it could take an hour or more to complete, meaning that its a big commitment to play.
+  - Currently the game is just a board explorer. It relies to heavy on visuals to create an atmosphere. The game should be some fun even without it.
 - **Feasibility**: Are there technological or resource constraints?
+  - Poor memory management could result in the game being too costly for certain devices, or worse, a game crashing when going for too long.
 
 ---
 
 ### Discussion Questions
 1. What features are most critical to make this game concept fun?
 2. How can the mechanics support the narrative and theme effectively?
-
+  - The roguelike nature of landing different cards in a game and the competitiveness should encourage strategy and planning in every move of the game. Not being locked into a single objective should allow variety in games.
+  - Having automation on things like chasers or traps are important to reduce player toil.
 ---
 
 ## Appendix
 - Include sketches, mood boards, or early design mockups if available.
+  - ![Tiles](https://github.com/user-attachments/assets/1c69d32c-7824-45e7-b5e4-cb6b33b53c20)
+  - 
+
 
 ---
